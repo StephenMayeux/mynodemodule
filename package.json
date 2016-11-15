@@ -1,0 +1,19 @@
+{
+  "name": "prepend-date",
+  "version": "1.0.0",
+  "description": "Prepend the month and date to each string in an array",
+  "main": "myNodeModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenMayeux/mynodemodule.git"
+  },
+  "author": "Stephen Mayeux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenMayeux/mynodemodule/issues"
+  },
+  "homepage": "https://github.com/StephenMayeux/mynodemodule#readme"
+}
